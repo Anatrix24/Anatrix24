@@ -1,7 +1,15 @@
-## Hi there 👋
+Boas vindas ao meu perfil 💙💙
 
+Meu nome é Ana Beatriz
+
+Estou estudando na Alura
+Estou me desenvolvendo na linguagem JavaScript
+Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 <!--
 **Anatrix24/Anatrix24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Você pode entrar em contato comigo 📫
+![anabiasantos](link)
 
 Here are some ideas to get you started:
 
